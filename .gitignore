@@ -1,0 +1,4 @@
+keys.py
+*.exe
+*.log
+*.json

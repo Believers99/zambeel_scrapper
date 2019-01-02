@@ -1,0 +1,6 @@
+CS 360 - Software Engineering,S1,Lecture,TuTh 11:30AM - 12:45PM,SBASSE Block 10-201,Affan Sheikh;Alina Fatima;Murayyiam Parvez;Sania Kashif;Suleman Shahid;Umair Shahzad,01/22/2018 - 05/11/2018
+CS 432 - Introduction to Data Mining,S1,Lecture,TuTh 1:00PM - 2:15PM,Academic Block A-15,Aman Irshad;Mian Muhammad Awais;Shahid Mehmood,01/22/2018 - 05/11/2018
+CS 674 - Digital Image Processing,S1,Lecture,MoWe 9:30AM - 10:45AM,SBASSE Block 10-301,Murtaza Taj;Numan Khurshid,01/22/2018 - 05/11/2018
+CS 5316 - Natural Language Processing,S1,Lecture,TuTh 8:00AM - 9:15AM,SBASSE Block 10-202,Asim Karim;Usman Zafar,01/22/2018 - 05/11/2018
+ECON 121 - Principles of Macroeconomics,S2,Lecture,MoWe 12:00PM - 1:15PM,Academic Block-SS,Irfan Ahmad Qureshi;Kinza Emad;Mahroo Shahzad;Syed Zargham Hussain;Wajeeha Zia Tung,01/22/2018 - 05/11/2018
+ECON 121 - Principles of Macroeconomics,R6,Recitation,Mo 4:00PM - 4:50PM,Academic Block A-2,Kinza Emad;Mahroo Shahzad;Syed Zargham Hussain;Wajeeha Zia Tung,01/22/2018 - 05/11/2018
